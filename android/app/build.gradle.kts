@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.antr_man"
+    namespace = "com.example.antrman"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
